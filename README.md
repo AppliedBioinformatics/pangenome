@@ -1,1 +1,3 @@
-# Python script designed to perform tasks associated with the pangenome construction method of iterative mapping and assembly
+# Supplementary script for book chapter: Legume Pangenome Construction Using an Iterative Mapping and Assembly Approach
+
+
