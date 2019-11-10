@@ -3,6 +3,7 @@
 ## Remove_reads_with_Ns.py
 
 This script is used to remove paired raw reads with unknown bases (Ns) as these reads will affect the performance of mapping and end up in the pool of unmapped reads – the assumption being that the sequencing run’s quality was good enough to have only few reads with Ns.
+
 Usage:`python Remove_reads_with_Ns.py [--cutoff CUTOFF] R1 R2`
 
 ## splitUp.py
