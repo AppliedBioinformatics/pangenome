@@ -11,4 +11,5 @@ Usage:`python Remove_reads_with_Ns.py [--cutoff CUTOFF] R1 R2`
 This script is used to split the unmapped fastq files into R1, R2 and singlets for assembly by MaSuRCA. 
 
 Usage: `python splitUp.py R1.fastq R2.fastq`
+
 This will create three files, one with the R1, one with the R2, and one with the singlets. Use all three in Masurca
